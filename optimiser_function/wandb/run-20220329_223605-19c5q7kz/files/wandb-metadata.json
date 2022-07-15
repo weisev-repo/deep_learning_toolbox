@@ -1,0 +1,24 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.2",
+    "heartbeatAt": "2022-03-29T20:36:13.732268",
+    "startedAt": "2022-03-29T20:36:05.774553",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/manuel/Library/Jupyter/runtime/kernel-e51376e2-3a8a-4afc-9c52-9ca78300f074.json"
+    ],
+    "state": "running",
+    "program": "manu_playground/notebooks/exercise_5/PW05_optimisers_FashionMNIST_group_20_wandb.ipynb",
+    "root": "/Users/manuel/Documents/MSE_Projects/deep_learning",
+    "git": {
+        "remote": "git@github.com:weissmanuel/deep_learning.git",
+        "commit": "35264aedf6a7c3314d1c6e9dd38daf56a6736c56"
+    },
+    "email": "manuel.weiss@software-brauerei.ch",
+    "host": "Manus-MacBook.local",
+    "username": "manuel",
+    "executable": "/Users/manuel/Documents/MSE_Projects/deep_learning/venv/bin/python3.9"
+}
